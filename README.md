@@ -1,8 +1,8 @@
 <div align="center">
-<p>♥ Cursando Informática </p>
-<p>♥ Pronomes: ela/dela </p>
-<p>♥ Focando em aprender o máximo de Web Design</p>
-<p>♥ Gatos, desenhos animados e técnologia</p>
+<p>✨ Cursando Informática </p>
+<p>✨ Pronomes: ela/dela </p>
+<p>✨ Focando em aprender o máximo de Web Design</p>
+<p>✨ Gatos, desenhos animados e técnologia</p>
 </div>
 </br>
 <div>

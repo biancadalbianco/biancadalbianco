@@ -7,7 +7,7 @@
 </br>
 <div align="center">
 <img height="200em" src='https://64.media.tumblr.com/f5416b3ccf7ec11ed622abfe97b7c150/tumblr_oplugo3sdG1wp31huo7_400.jpg'/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,ffb6c1"/>
 </div>
 <div align="center">
 <p align="center">
@@ -21,7 +21,7 @@
 </div>
 <div align="center">
 <a href="http://www.github.com/biancadalbianco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=biancadalbianco&stroke=ffffff&background=1a1b27&ring=ffb6c1&fire=ffb6c1&currStreakNum=ffffff&currStreakLabel=ffb6c1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- <img height="200em" src="https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355">
+ <img height="180em" src="https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355">
 </div>
 
 <!--

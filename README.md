@@ -21,7 +21,7 @@
 </div>
 <div align="center">
 <a href="http://www.github.com/biancadalbianco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=biancadalbianco&stroke=ffffff&background=1a1b27&ring=ffb6c1&fire=ffb6c1&currStreakNum=ffffff&currStreakLabel=ffb6c1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- <img height="190em" src="https://user-images.githubusercontent.com/81968616/189433916-e0172eaf-7cc4-45ed-a943-77d29e581cca.png">
+ <img height="190em" src="https://64.media.tumblr.com/bf99a0dc92f29efd5e30ec99d8854a2f/50094bd19711bc06-09/s400x600/c01afd750e28a24d366fb0c87ea91530b000fdfc.pnj">
 </div>
 
 <!--

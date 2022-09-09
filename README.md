@@ -7,7 +7,7 @@
 </br>
 <div align="center">
 <img height="200em" src='https://64.media.tumblr.com/f5416b3ccf7ec11ed622abfe97b7c150/tumblr_oplugo3sdG1wp31huo7_400.jpg'/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,ffb6c1"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
 </div>
 <div align="center">
 <p align="center">

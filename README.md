@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <div>
-<img height="300em" src="https://www.pinterest.com/pin/bee-and-puppycat--265430971771553865/">
+<img height="300em" scr="https://i.pinimg.com/originals/a5/bc/20/a5bc2096f5769b684761bf7a937d9651.jpg/">
 <p>Cursando Informática </p>
 <p>Pronomes: ela/dela </p>
 <p>Focando em aprender o máximo de Web Design</p>

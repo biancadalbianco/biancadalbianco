@@ -5,7 +5,7 @@
 <p>✨ Gatos, desenhos animados e tecnologia</p>
 </div>
 </br>
-<div>
+<div align="center">
 <img height="200em" src='https://64.media.tumblr.com/f5416b3ccf7ec11ed622abfe97b7c150/tumblr_oplugo3sdG1wp31huo7_400.jpg'/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
 </div>
@@ -20,7 +20,7 @@
   </p>
 </div>
 <div align="center">
-<a href="http://www.github.com/biancadalbianco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=biancadalbianco&stroke=ffffff&background=1a1b27&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/biancadalbianco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=biancadalbianco&stroke=ffffff&background=1a1b27&ring=252334&fire=252334&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 <!--

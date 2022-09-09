@@ -6,7 +6,7 @@
 </div>
 </br>
 <div>
-<img height="180em" src='https://br.pinterest.com/pin/444941638191258379/'/>
+<img height="180em" src='https://64.media.tumblr.com/f5416b3ccf7ec11ed622abfe97b7c150/tumblr_oplugo3sdG1wp31huo7_400.jpg'/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
 </div>
 <div align="left">

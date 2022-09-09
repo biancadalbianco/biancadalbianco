@@ -8,7 +8,6 @@
 <div>
 <img height="200em" src='https://64.media.tumblr.com/f5416b3ccf7ec11ed622abfe97b7c150/tumblr_oplugo3sdG1wp31huo7_400.jpg'/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
-  <img height="200em" src='https://static.wikia.nocookie.net/hellokitty/images/3/33/Sanrio_Characters_My_Melody_Image029.png/revision/latest?cb=20170407005355'/>
 </div>
 <div align="left">
 <p align="left">

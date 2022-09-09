@@ -7,7 +7,7 @@
 </br>
 <div>
 <img height="180em" src='https://i.pinimg.com/originals/a5/bc/20/a5bc2096f5769b684761bf7a937d9651.jpg'/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancadalbianco&layout=compact&langs_count=16&hide_border=true&theme=material-palenight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancadalbianco&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
 </div>
 
 <!--

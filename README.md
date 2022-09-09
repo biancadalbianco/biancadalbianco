@@ -2,6 +2,8 @@
 <div>
 <img height="180em" src='https://i.pinimg.com/originals/a5/bc/20/a5bc2096f5769b684761bf7a937d9651.jpg'/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancadalbianco&layout=compact&langs_count=16&hide_border=true&theme=material-palenight"/>
+</div>
+<div align="center">
 <p>Cursando Informática </p>
 <p>Pronomes: ela/dela </p>
 <p>Focando em aprender o máximo de Web Design</p>

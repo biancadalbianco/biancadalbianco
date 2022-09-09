@@ -18,8 +18,9 @@
 <a href="https://sass-lang.com/documentation/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white alt=SASS"/></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=CSS3"/></a> 
   </p>
-
-
+</div>
+<div align="center">
+<a href="http://www.github.com/biancadalbianco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=biancadalbianco&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 <!--

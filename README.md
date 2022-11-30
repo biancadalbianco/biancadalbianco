@@ -17,7 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
 <a href="https://sass-lang.com/documentation/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white alt=SASS"/></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=CSS3"/></a> 
-  <a href="https://wa.me/5551995720153/"><img src="https://img.shields.io/badge/WhatsApp%202-B8860b?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+
   </p>
 
 

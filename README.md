@@ -12,6 +12,19 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=CSS3"/></a>
 
   </p>
+</div>
+
+<div align="center">
+ <p ali="center">
+ <h3>Design</h3>
+  <a href="https://www.adobe.com/br/products/xd/pricing/free-trial.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+  <a href="https://www.adobe.com/br/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+ <a href="https://www.adobe.com/br/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black/"></a>
+ 
+ <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+ 
+ </p>
+ </div>
 
 
 
